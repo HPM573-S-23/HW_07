@@ -1,20 +1,16 @@
 # Homework Assignment 7
 
-**Overview**. For the urgent care simulation model you developed in the last homework assignement, 
-For this assignment, you should feel free to use any part of the code in the [solution of HW_6](https://github.com/HPM573/HW_6_Solution), and the [discrete-event simulation lab](https://github.com/HPM573/Lab_DiscreteEventSimulation).
+**Overview**. For the urgent care simulation model you developed in the last homework assignement, we would like to add a simulation trace to track what exactly happens to each patients, plot different sample paths, and report several performance statistis. For this assignment, you should feel free to use any part of the code in the [solution of HW_6](https://github.com/HPM573/HW_6_Solution), and the [discrete-event simulation lab](https://github.com/HPM573/Lab_DiscreteEventSimulation).
 
-**Problem 1: Simulation Trace (Weight 2)**.
+**Problem 1: Simulation Trace (Weight 1)**. Modify your code so that you can produce the trace of what exactly is happening throughout the simulation.
 
-**Problem 2: Performance Measures (Weight 4)**. 
-Report the following performance measures:
-- Average patient time in system
-- Average patient waiting time,
-- Average patient waiting time to see the mental health specialist
-
-And plot the sample paths of: 
+**Problem 2: Sample Paths (Weight 1)**. Plot the sample paths of: 
 - Patients in the system
 - Patients waiting to see the mental health specialist
 - Utilization of primary care physician
 - Utilization of mental health specialist
 
-
+**Problem 3: Performance Measures (Weight 1)**. Report the following performance measures:
+- Average patient time in system
+- Average patient waiting time,
+- Average patient waiting time to see the mental health specialist
