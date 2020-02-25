@@ -12,5 +12,5 @@
 
 **Problem 3: Performance Measures (Weight 1)**. Report the following performance measures:
 - Average patient time in system
-- Average patient waiting time,
+- Average patient waiting time
 - Average patient waiting time to see the mental health specialist
