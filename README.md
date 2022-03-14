@@ -19,5 +19,5 @@ Modify your code so that you can produce the trace of what exactly is happening 
 
 **Problem 3: Performance Measures (Weight 1)**. Report the following performance measures:
 - Average patient time in system
-- Average patient waiting time
+- Average patient waiting time to see the primary care physician
 - Average patient waiting time to see the mental health specialist
